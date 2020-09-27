@@ -1,10 +1,4 @@
-Compact Beamspring controller.
-
-This version only supports new style card edge connectors only, and it requires the side
-of the card edge connector to be cut off, and the pins be bent 90 degress.
-
-
-The Compact Beamspring Controller is based on the TH-XWhatsit design:
+SMD Model F controller based on TH Xwhatsit design.
 
 through hole implementation of the capsense controllers by XWhatsIt
 (Tom Wong-Cornall). original liscencure holds, as well as CERN OSH
