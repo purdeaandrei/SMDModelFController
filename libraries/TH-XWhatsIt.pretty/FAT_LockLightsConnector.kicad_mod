@@ -1,4 +1,4 @@
-(module FAT_LockLightsConnector (layer F.Cu) (tedit 5F724B2D)
+(module FAT_LockLightsConnector (layer F.Cu) (tedit 5FB4C9E3)
   (descr "Through hole straight pin header, 2x04, 2.54mm pitch, double rows")
   (tags "Through hole pin header THT 2x04 2.54mm double row")
   (fp_text reference J6 (at 1.27 -2.33) (layer F.SilkS)
@@ -36,7 +36,7 @@
   (pad 4 thru_hole oval (at 2.54 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 2.54 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x04_P2.54mm_Vertical.wrl
+  (model ${KIPRJMOD}/../libraries/3d_at_locklights/at_locklights.x3d
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
