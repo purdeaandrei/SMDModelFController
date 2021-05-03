@@ -51,3 +51,16 @@ August 14th, 2020
             physical hardware testing
             firmware
             firmware testing
+Unknown date
+    user: purdeaandrei
+        done:
+            Converted to SMD, sized for 'standard' Model F keyboards.
+Unknown date
+    user: purdeaandrei
+        done:
+            Added extra (3rd) shift register to make this variant of the board more useful for people wanting to do custom designs.
+May 3 2021:
+    user: purdeaandrei
+        done:
+            Updated Pro Micro schematic symbol (fixed incorrect pin names, and made pin names more verbose)
+            Added schematics in PDF form.
