@@ -1,6 +1,8 @@
-# SMD Model F controller based on TH Xwhatsit design. ('standard' variant)
+# SMD Model F controller based on TH Xwhatsit design. ('kishsaver' variant)
 
-This variant is for 'standard' model F keyboards, including FAT, F122, ...
+This variant is for IBM 4704 keyboards, aka 'kishsaver' class model F keyboards, like F107, F50, F62, F77
+This variant is not 100% compatible with the https://www.modelfkeyboards.com/ recreations of the F62/F77, because the pin pitch is different,
+although it is electrically compatible with those too, if one decides to wire it up with individual wires.
 
 For other variants see:
 * https://github.com/purdeaandrei/SMDModelFController/tree/extra_columns
