@@ -2,6 +2,11 @@
 
 This variant has an additional shift register, for custom projects, to support up to 24 columns, by manual wiring.
 
+For other variants see:
+* https://github.com/purdeaandrei/SMDModelFController
+* https://github.com/purdeaandrei/SMD4704KishsaverClassModelFController
+* https://github.com/listofoptions/TH-XWhatsIt
+
 ## Images
 
 ![Top of the controller board](images/top.png)
