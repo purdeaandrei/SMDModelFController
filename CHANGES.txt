@@ -70,3 +70,4 @@ Oct 30, 2021
             Removed datasheets
             Updated some licensing info
             Ported over some changes from the 'standard' model F controller, to make 3d rendering look better
+            Mark some components that are not supposed to be mounted virtual, for more correct 3d rendering.
