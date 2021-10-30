@@ -69,3 +69,4 @@ Oct 30, 2021
         done:
             Removed datasheets
             Updated some licensing info
+            Ported over some changes from the 'standard' model F controller, to make 3d rendering look better
