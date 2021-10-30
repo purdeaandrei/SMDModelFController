@@ -65,3 +65,5 @@ Oct 30, 2021
         done:
             Removed datasheets
             Updated some licensing info
+            Mark some components that are not supposed to be mounted virtual, for more correct 3d rendering.
+            Added images, tweaked readme.

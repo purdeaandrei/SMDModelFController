@@ -1,6 +1,21 @@
-SMD Model F controller based on TH Xwhatsit design.
+# SMD Model F controller based on TH Xwhatsit design. ('standard' variant)
 
-through hole implementation of the capsense controllers by XWhatsIt
+This variant is for 'standard' model F keyboards, including FAT, F122, ...
+
+For other variants see:
+* https://github.com/purdeaandrei/SMDModelFController/tree/extra_columns
+* https://github.com/purdeaandrei/SMD4704KishsaverClassModelFController
+* https://github.com/listofoptions/TH-XWhatsIt
+
+## Images
+
+![Top of the controller board](images/top.png)
+![Bottom of the controller board](images/bottom.png)
+
+## Origins and license
+
+This project is based on the Through-hole xwhatsit by listofoptions, which is un turn
+based on the capsense controllers by XWhatsIt
 (Tom Wong-Cornall). original liscencure holds, as well as CERN OSH
 (compatible license).
 
