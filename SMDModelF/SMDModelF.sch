@@ -33,7 +33,7 @@ F 0 "U3" H 5175 2131 50  0000 C CNN
 F 1 "74AHC595" H 5175 2040 50  0000 C CNN
 F 2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" H 5175 1350 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf" H 5175 1350 50  0001 C CNN
-F 4 "C2682116" H 5175 1350 50  0001 C CNN "LCSC"
+F 4 "C5520" H 5175 1350 50  0001 C CNN "LCSC"
 	1    5175 1350
 	1    0    0    -1  
 $EndComp
@@ -1710,7 +1710,7 @@ F 0 "U7" H 5675 3656 50  0000 C CNN
 F 1 "74AHC595" H 5675 3565 50  0000 C CNN
 F 2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" H 5675 2875 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf" H 5675 2875 50  0001 C CNN
-F 4 "C2682116" H 5675 2875 50  0001 C CNN "LCSC"
+F 4 "C5520" H 5675 2875 50  0001 C CNN "LCSC"
 	1    5675 2875
 	1    0    0    -1  
 $EndComp
@@ -1804,7 +1804,7 @@ F 0 "U4" H 7100 2156 50  0000 C CNN
 F 1 "74AHC595" H 7100 2065 50  0000 C CNN
 F 2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" H 7100 1375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf" H 7100 1375 50  0001 C CNN
-F 4 "C2682116" H 7100 1375 50  0001 C CNN "LCSC"
+F 4 "C5520" H 7100 1375 50  0001 C CNN "LCSC"
 	1    7100 1375
 	1    0    0    -1  
 $EndComp
